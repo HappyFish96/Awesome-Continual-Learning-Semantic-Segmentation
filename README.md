@@ -6,8 +6,8 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 ---
 ## 📖 Table of Contents
 
-- [Awesome CLSS (Continual Learning semantic Segmentation)](#awesome-clss-continual-learning-on-semantic-segmentation)
-  - [Table of Contents](#table-of-contents)
+- [Awesome CLSS (Continual Learning semantic Segmentation)](#-awesome-clss-continual-learning-on-semantic-segmentation)
+  - [Table of Contents](#-table-of-contents)
     - [Overview of CLSS]
       - [Detailed Explanation]
     - [📜 Research Ppaers]
