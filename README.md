@@ -11,7 +11,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
     - [Overview of CLSS]
       - [Detailed Explanation]
     - [📜 Research Ppaers](#-research-papers)
-      - {Traditional Continual Learning on Semantic Segmentation}(#-traditional-continual-learning-on-semantic-segmentation)
+      - {Traditional Continual Learning on Semantic Segmentation}(#traditional-continual-learning-on-semantic-segmentation)
       - {Continual Learning on Weakly-Supervised Semantic Segmentation}
       - {Continual Learning on Few-Shot Semantic Segmentation}
       - {Continual Learning on Multi-Domain Semantic Segmentation}
