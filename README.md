@@ -12,9 +12,9 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
       - [Detailed Explanation]
     - [📜 Research Ppaers](#-research-papers)
       - [Traditional Continual Learning on Semantic Segmentation](#traditional-continual-learning-on-semantic-segmentation)
-      - [Continual Learning on Weakly-Supervised Semantic Segmentation]
-      - [Continual Learning on Few-Shot Semantic Segmentation]
-      - [Continual Learning on Multi-Domain Semantic Segmentation]
+      - [Continual Learning on Weakly-Supervised Semantic Segmentation](#continual learning on weakly-supervised semantic segmentation)
+      - [Continual Learning on Few-Shot Semantic Segmentation](#continual learning on few-shot semantic segmentation)
+      - [Continual Learning on Multi-Domain Semantic Segmentation](#continual learning on multi-domain semantic segmentation)
     - [📂 Datasets](#-datasets)
 
 ## 🎯 Overview of CLSS
