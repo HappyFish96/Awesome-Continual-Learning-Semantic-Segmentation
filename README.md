@@ -6,11 +6,15 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 ---
 ## 📖 Table of Contents
 
-- [Awesome CLSS (Continual Learning semantic Segmentation)](#-awesome-clss-continual-learning-on-semantic-segmentation)
+- [Awesome CLSS (Continual Learning on semantic Segmentation)](#-awesome-clss-continual-learning-on-semantic-segmentation)
   - [Table of Contents](#-table-of-contents)
     - [Overview of CLSS]
       - [Detailed Explanation]
     - [📜 Research Ppaers](#-research-papers)
+      - {Traditional Continual Learning on Semantic Segmentation}(#Traditional)
+      - {Continual Learning on Weakly-Supervised Semantic Segmentation}
+      - {Continual Learning on Few-Shot Semantic Segmentation}
+      - {Continual Learning on Multi-Domain Semantic Segmentation}
     - [📂 Datasets](#-datasets)
 
 ## 🎯 Overview of CLSS
@@ -18,7 +22,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 
 ## 📜 Research Papers
 
-### Traditional Continual Learning Semantic Segmentation
+### Traditional Continual Learning om Semantic Segmentation
  #### **📆 2025**
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
@@ -52,12 +56,12 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
 
-### Weakly-supervised Continual Learning Semantic Segmentation
+### Continual Learning on Weakly-Supervised Semantic Segmentation
 
 
-### Few-Shot Continual Learning Semantic Segmentation
+### Continual Learning on Few-Shot Semantic Segmentation
 
-### Multi-Domain Continual Learning Semantic Segmentation
+### Continual Learning on Multi-Domain Semantic Segmentation
 
 ### Federal Learning
 
