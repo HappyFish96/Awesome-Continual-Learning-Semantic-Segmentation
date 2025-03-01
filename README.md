@@ -10,8 +10,11 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
   - [Table of Contents](#-table-of-contents)
     - [Overview of CLSS]
       - [Detailed Explanation]
-    - [📜 Research Ppaers]
-    - [📂 Datasets]
+    - [📜 Research Ppaers](#-research-papers)
+    - [📂 Datasets](#-datasets)
+
+## 🎯 Overview of CLSS
+
 
 ## 📜 Research Papers
 
