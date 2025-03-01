@@ -22,47 +22,47 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 
 ## 📜 Research Papers
 
-### Traditional Continual Learning om Semantic Segmentation
- #### **📆 2025**
+## Traditional Continual Learning om Semantic Segmentation
+ ## **📆 2025**
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
 
- #### **📆 2024**
- | Title | Authors | Conference | Ppaer | Code |
- |-------|---------|------------|-------|------|
-
-
- #### **📆 2023**
- | Title | Authors | Conference | Ppaer | Code |
- |-------|---------|------------|-------|------|
-
- #### **📆 2022**
+ ## **📆 2024**
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
 
 
- #### **📆 2021**
+ ## **📆 2023**
+ | Title | Authors | Conference | Ppaer | Code |
+ |-------|---------|------------|-------|------|
+
+ ## **📆 2022**
+ | Title | Authors | Conference | Ppaer | Code |
+ |-------|---------|------------|-------|------|
+
+
+ ## **📆 2021**
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
 
 
 
- #### **📆 2020**
+ ## **📆 2020**
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
 
 
- #### **📆 2021**
+ ## **📆 2021**
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
 
-### Continual Learning on Weakly-Supervised Semantic Segmentation
+## Continual Learning on Weakly-Supervised Semantic Segmentation
 
 
-### Continual Learning on Few-Shot Semantic Segmentation
+## Continual Learning on Few-Shot Semantic Segmentation
 
-### Continual Learning on Multi-Domain Semantic Segmentation
+## Continual Learning on Multi-Domain Semantic Segmentation
 
-### Federal Learning
+## Federal Learning
 
 ## 📂 Datasets
