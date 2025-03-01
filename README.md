@@ -23,7 +23,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 
 ## 📜 Research Papers
 
-### Traditional Continual Learning om Semantic Segmentation
+### Traditional Continual Learning on Semantic Segmentation
  ### **📆 2025**
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
