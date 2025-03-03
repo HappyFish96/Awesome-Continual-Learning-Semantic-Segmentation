@@ -71,7 +71,10 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 ### Continual Learning on Multi-Domain Semantic Segmentation
 
 ### Federated Learning
-
+ ### **📆 2023**
+ | Title | Authors | Conference | Ppaer | Code |
+ |:-------:|:---------:|:------------:|:-------:|:------:|
+ |Federated Incremental Semantic Segmentation|Dong, Jiahua and Zhang, Duzhen and Cong, Yang and Cong, Wei and Ding, Henghui and Dai, Dengxin|2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23}|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)|[code](https://github.com/JiahuaDong/FISS)|
 ### 3D Point Cloud
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
