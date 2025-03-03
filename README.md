@@ -10,7 +10,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
   - [Table of Contents](#-table-of-contents)
     - [Overview of CLSS](#-overview-of-clss)
       - [Detailed Explanation](#detailed-explanation)
-      - [Survey](#-survey)
+      - [Survey](#survey)
     - [📜 Research Ppaers](#-research-papers)
       - [Traditional Continual Learning on Semantic Segmentation](#traditional-continual-learning-on-semantic-segmentation)
       - [Continual Learning on Weakly-Supervised Semantic Segmentation](#continual-learning-on-weakly-supervised-semantic-segmentation)
