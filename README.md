@@ -9,7 +9,8 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 - [Awesome CLSS (Continual Learning on semantic Segmentation)](#-awesome-clss-continual-learning-on-semantic-segmentation)
   - [Table of Contents](#-table-of-contents)
     - [Overview of CLSS](#-overview-of-clss)
-      - [Detailed Explanation]
+      - [Detailed Explanation](#detailed-explanation)
+      - [Survey](#-survey)
     - [📜 Research Ppaers](#-research-papers)
       - [Traditional Continual Learning on Semantic Segmentation](#traditional-continual-learning-on-semantic-segmentation)
       - [Continual Learning on Weakly-Supervised Semantic Segmentation](#continual-learning-on-weakly-supervised-semantic-segmentation)
@@ -22,6 +23,8 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
     - [📂 Datasets](#-datasets)
 
 ## 🎯 Overview of CLSS
+### Detailed Explanation
+### Survey
 
 
 ## 📜 Research Papers
