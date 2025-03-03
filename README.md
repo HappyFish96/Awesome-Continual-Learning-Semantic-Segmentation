@@ -66,7 +66,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
- |Incremental Few Shot Semantic Segmentation via Class-agnostic Mask Proposal and Language-driven Classifier|Shan, Leo and Zhou, Wenzhang and Zhao, Grace|Proceedings of the 31st ACM International Conference on Multimedia (ACM MM'23)| [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611783)|[code](Node)|
+ |Incremental Few Shot Semantic Segmentation via Class-agnostic Mask Proposal and Language-driven Classifier|Shan, Leo and Zhou, Wenzhang and Zhao, Grace|Proceedings of the 31st ACM International Conference on Multimedia (ACM MM'23)| [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611783)|[No code]|
 
 ### Continual Learning on Multi-Domain Semantic Segmentation
 
