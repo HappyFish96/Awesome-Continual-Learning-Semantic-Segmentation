@@ -15,7 +15,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
       - [Continual Learning on Weakly-Supervised Semantic Segmentation](#continual-learning-on-weakly-supervised-semantic-segmentation)
       - [Continual Learning on Few-Shot Semantic Segmentation](#continual-learning-on-few-shot-semantic-segmentation)
       - [Continual Learning on Multi-Domain Semantic Segmentation](#continual-learning-on-multi-domain-semantic-segmentation)
-      - [Federal Learning](#federal-learning)
+      - [Federated Learning](#federated-learning)
       - [3D Point Cloud](#3d-point-cloud)
     - [📂 Datasets](#-datasets)
 
@@ -70,7 +70,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 
 ### Continual Learning on Multi-Domain Semantic Segmentation
 
-### Federal Learning
+### Federated Learning
 
 ### 3D Point Cloud
  ### **📆 2023**
