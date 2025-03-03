@@ -69,6 +69,10 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |:-------:|:---------:|:------------:|:-------:|:------:|
  |Incremental Few Shot Semantic Segmentation via Class-agnostic Mask Proposal and Language-driven Classifier|Shan, Leo and Zhou, Wenzhang and Zhao, Grace|Proceedings of the 31st ACM International Conference on Multimedia (ACM MM'23)| [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611783)|No code|
 ### Continual Learning on Multi-Domain Semantic Segmentation
+ ### **📆 2024**
+ | Title | Authors | Conference | Ppaer | Code |
+ |:-------:|:---------:|:------------:|:-------:|:------:|
+ |SimCS: Simulation for Domain Incremental Online Continual Segmentation|Alfarra, Motasem and Cai, Zhipeng and Bibi, Adel and Ghanem, Bernard and Müller, Matthias|Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAI'24)|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28952)|No code|
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
