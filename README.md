@@ -16,6 +16,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
       - [Continual Learning on Few-Shot Semantic Segmentation](#continual-learning-on-few-shot-semantic-segmentation)
       - [Continual Learning on Multi-Domain Semantic Segmentation](#continual-learning-on-multi-domain-semantic-segmentation)
       - [Federal Learning](#federal-learning)
+      - [3D Point Cloud](#3d-point-cloud)
     - [📂 Datasets](#-datasets)
 
 ## 🎯 Overview of CLSS
@@ -27,7 +28,6 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  ### **📆 2025**
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
- | 2024 | Paper 1 | Author A, B | [Link](#) |
  | 2023 | Paper 2 | Author C, D | [Link](#) |
 
  ### **📆 2024**
@@ -55,7 +55,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |-------|---------|------------|-------|------|
 
 
- ### **📆 2021**
+ ### **📆 2019**
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
 
@@ -68,4 +68,9 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 
 ### Federal Learning
 
+### 3D Point Cloud
+ ### **📆 2023**
+ | Title | Authors | Conference | Ppaer | Code |
+ |-------|---------|------------|-------|------|
+ | Geometry and Uncertainty-Aware 3D Point Cloud Class-Incremental Semantic Segmentation| Yang, Yuwei and Hayat, Munawar and Jin, Zhao and Ren, Chao and Lei, Yinjie| 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23) | [https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf](#) |
 ## 📂 Datasets
