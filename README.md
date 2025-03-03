@@ -18,6 +18,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
       - [Federated Learning](#federated-learning)
       - [3D Point Cloud](#3d-point-cloud)
       - [Attack](#attack)
+      - [Panoptic Segmentation](#panoptic-segmentation)
     - [📂 Datasets](#-datasets)
 
 ## 🎯 Overview of CLSS
@@ -98,4 +99,9 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
  |Attacks on Continual Semantic Segmentation by Perturbing Incremental Samples| Zhidong Yu, Wei Yang, Xike Xie, and Zhenbo Shi| Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI'24)| [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28509)| No code|
+### Panoptic Segmentation
+### **📆 2024**
+ | Title | Authors | Conference | Ppaer | Code |
+ |:-------:|:---------:|:------------:|:-------:|:------:|
+ |ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning| Kim, Beomyoung and Yu, Joonsang and Hwang, Sung Ju| 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24)| [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_ECLIPSE_Efficient_Continual_Learning_in_Panoptic_Segmentation_with_Visual_Prompt_CVPR_2024_paper.pdf)|[code](https://github.com/clovaai/ECLIPSE?tab=readme-ov-file)|
 ## 📂 Datasets
