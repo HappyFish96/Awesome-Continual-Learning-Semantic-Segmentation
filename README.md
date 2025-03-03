@@ -71,6 +71,6 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 ### 3D Point Cloud
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
- |-------|---------|------------|-------|------|
+ |:-------:|:---------:|:------------:|:-------:|:------:|
  | Geometry and Uncertainty-Aware 3D Point Cloud Class-Incremental Semantic Segmentation| Yang, Yuwei and Hayat, Munawar and Jin, Zhao and Ren, Chao and Lei, Yinjie| 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23) | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)|[code](https://github.com/leolyj/3DPC-CISS)|
 ## 📂 Datasets
