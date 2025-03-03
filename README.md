@@ -75,6 +75,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
  |Federated Incremental Semantic Segmentation|Dong, Jiahua and Zhang, Duzhen and Cong, Yang and Cong, Wei and Ding, Henghui and Dai, Dengxin|2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23}|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Dong_Federated_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)|[code](https://github.com/JiahuaDong/FISS)|
+ |FedSeg: Class-Heterogeneous Federated Learning for Semantic Segmentation|Miao, Jiaxu and Yang, Zongxin and Fan, Leilei and Yang, Yi|2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23)|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Miao_FedSeg_Class-Heterogeneous_Federated_Learning_for_Semantic_Segmentation_CVPR_2023_paper.pdf)|[code](https://github.com/lightas/FedSeg)|
 ### 3D Point Cloud
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
