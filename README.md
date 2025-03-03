@@ -72,7 +72,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  ### **📆 2024**
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
- |SimCS: Simulation for Domain Incremental Online Continual Segmentation|Alfarra, Motasem and Cai, Zhipeng and Bibi, Adel and Ghanem, Bernard and Müller, Matthias|Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAI'24)|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28952)|No code|
+ |SimCS: Simulation for Domain Incremental Online Continual Segmentation|Alfarra, Motasem and Cai, Zhipeng and Bibi, Adel and Ghanem, Bernard and Müller, Matthias|Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI'24)|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28952)|No code|
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
