@@ -71,6 +71,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
  |Continual Semantic Segmentation Leveraging Image-level Labels and Rehearsal|Pagé Fortin, Mathieu and Chaib-draa, Brahim|Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI'22)|[paper](https://doi.org/10.24963/ijcai.2022/177)|No code|
+ |Incremental Learning in Semantic Segmentation from Image Labels|Cermelli, Fabio and Fontanel, Dario and Tavera, Antonio and Ciccone, Marco and Caputo, Barbara|2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'22)|[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cermelli_Incremental_Learning_in_Semantic_Segmentation_From_Image_Labels_CVPR_2022_paper.pdf)|[code](https://github.com/fcdl94/WILSON)|
 ### Continual Learning on Few-Shot Semantic Segmentation
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
