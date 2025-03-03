@@ -17,6 +17,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
       - [Continual Learning on Multi-Domain Semantic Segmentation](#continual-learning-on-multi-domain-semantic-segmentation)
       - [Federated Learning](#federated-learning)
       - [3D Point Cloud](#3d-point-cloud)
+      - [Attack](#attack)
     - [📂 Datasets](#-datasets)
 
 ## 🎯 Overview of CLSS
@@ -82,4 +83,9 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |:-------:|:---------:|:------------:|:-------:|:------:|
  | Geometry and Uncertainty-Aware 3D Point Cloud Class-Incremental Semantic Segmentation| Yang, Yuwei and Hayat, Munawar and Jin, Zhao and Ren, Chao and Lei, Yinjie| 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23) | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_Geometry_and_Uncertainty-Aware_3D_Point_Cloud_Class-Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)|[code](https://github.com/leolyj/3DPC-CISS)|
  | Label-Guided Knowledge Distillation for Continual Semantic Segmentation on 2D Images and 3D Point Clouds| Yang, Ze and Li, Ruibo and Ling, Evan and Zhang, Chi and Wang, Yiming and Huang, Dezhao and Ma, Keng Teck and Hur, Minhoe and Lin, Guosheng| 2023 IEEE/CVF International Conference on Computer Vision (ICCV'23) | [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Label-Guided_Knowledge_Distillation_for_Continual_Semantic_Segmentation_on_2D_Images_ICCV_2023_paper.pdf)|[code](https://github.com/Ze-Yang/LGKD)|
+### Attack
+### **📆 2024**
+ | Title | Authors | Conference | Ppaer | Code |
+ |:-------:|:---------:|:------------:|:-------:|:------:|
+ |Attacks on Continual Semantic Segmentation by Perturbing Incremental Samples| Zhidong Yu, Wei Yang, Xike Xie, and Zhenbo Shi| Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI'24)| [paper](https://ojs.aaai.org/index.php/AAAI/article/view/28509)| No code|
 ## 📂 Datasets
