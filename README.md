@@ -62,6 +62,10 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |-------|---------|------------|-------|------|
 
 ### Continual Learning on Weakly-Supervised Semantic Segmentation
+ ### **📆 2024**
+ | Title | Authors | Conference | Ppaer | Code |
+ |:-------:|:---------:|:------------:|:-------:|:------:|
+ |Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation| Chongjie Si, Xuehui Wang, Xiaokang Yang, and Wei Shen| Computer Vision -- ECCV 2024 (ECCV'24)|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05086.pdf)|No code|
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
