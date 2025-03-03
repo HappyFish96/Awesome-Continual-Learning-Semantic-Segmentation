@@ -68,8 +68,10 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
  |Incremental Few Shot Semantic Segmentation via Class-agnostic Mask Proposal and Language-driven Classifier|Shan, Leo and Zhou, Wenzhang and Zhao, Grace|Proceedings of the 31st ACM International Conference on Multimedia (ACM MM'23)| [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611783)|No code|
-
 ### Continual Learning on Multi-Domain Semantic Segmentation
+ ### **📆 2023**
+ | Title | Authors | Conference | Ppaer | Code |
+ |Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather Conditions|Kalb, Tobias and Beyerer, Jürgen|2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23)|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kalb_Principles_of_Forgetting_in_Domain-Incremental_Semantic_Segmentation_in_Adverse_Weather_CVPR_2023_paper.pdf)|[code](https://github.com/tobiaskalb/feature-reuse-css)|
  ### **📆 2022**
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
