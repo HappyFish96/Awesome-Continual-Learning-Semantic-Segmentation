@@ -66,6 +66,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
  |Class-incremental Continual Learning for Instance Segmentation with Image-level Weak Supervision|Hsieh, Yu-Hsing and Chen, Guan-Sheng and Cai, Shun-Xian and Wei, Ting-Yun and Yang, Huei-Fang and Chen, Chu-Song|2023 IEEE/CVF International Conference on Computer Vision (ICCV'23)|[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Hsieh_Class-incremental_Continual_Learning_for_Instance_Segmentation_with_Image-level_Weak_Supervision_ICCV_2023_paper.pdf#:~:text=In%20this%20paper%2C%20we%20propose%20a%20continual-learning,method%20to%20seg-ment%20object%20instances%20from%20image-level%20labels.)|[code](https://github.com/AI-Application-and-Integration-Lab/CL4WSIS)|
+ |Foundation Model Drives Weakly Incremental Learning for Semantic Segmentation| Yu, Chaohui and Zhou, Qiang and Li, Jingliang and Yuan, Jianlong and Wang, Zhibin and Wang, Fan| 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23)|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Foundation_Model_Drives_Weakly_Incremental_Learning_for_Semantic_Segmentation_CVPR_2023_paper.pdf)|No code|
   ### **📆 2022**
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
