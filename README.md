@@ -70,7 +70,10 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |Incremental Few Shot Semantic Segmentation via Class-agnostic Mask Proposal and Language-driven Classifier|Shan, Leo and Zhou, Wenzhang and Zhao, Grace|Proceedings of the 31st ACM International Conference on Multimedia (ACM MM'23)| [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611783)|No code|
 
 ### Continual Learning on Multi-Domain Semantic Segmentation
-
+ ### **📆 2022**
+ | Title | Authors | Conference | Ppaer | Code |
+ |:-------:|:---------:|:------------:|:-------:|:------:|
+ |Multi-Domain Incremental Learning for Semantic Segmentation|Garg, Prachi and Saluja, Rohit and Balasubramanian, Vineeth N and Arora, Chetan and Subramanian, Anbumani and Jawahar, C.V.| 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV'22)|[paper](https://openaccess.thecvf.com/content/WACV2022/papers/Garg_Multi-Domain_Incremental_Learning_for_Semantic_Segmentation_WACV_2022_paper.pdf)|[code](https://github.com/prachigarg23/MDIL-SS)|
 ### Federated Learning
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
