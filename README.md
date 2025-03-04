@@ -33,12 +33,12 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  ### **📆 2025**
  | Title | Authors | Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
- | 2023 | Paper 2 | Author C, D | [Link](#) |
 
  ### **📆 2024**
  | Title | Authors | Conference | Ppaer | Code |
- |-------|---------|------------|-------|------|
-
+ |:-------:|:---------:|:------------:|:-------:|:------:|
+ |Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation| Zhang Anqi, and Gao 
+Guangyu| Computer Vision -- ECCV 2024 (ECCV'24)|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06856.pdf)|[code](https://github.com/ANDYZAQ/BARM)|
 
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
