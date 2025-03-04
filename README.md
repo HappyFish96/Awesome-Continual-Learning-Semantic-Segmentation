@@ -38,6 +38,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  | Title | Authors | Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
  |Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation|Zhang Anqi, and Gao Guangyu|Computer Vision -- ECCV 2024 (ECCV'24)|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06856.pdf)|[code](https://github.com/ANDYZAQ/BARM)|
+ |Continual Segmentation with Disentangled Objectness Learning and Class Recognition|Gong, Yizheng and Yu, Siyue and Wang, Xiaoyang and Xiao, Jimin|2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24)|[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Continual_Segmentation_with_Disentangled_Objectness_Learning_and_Class_Recognition_CVPR_2024_paper.pdf)|No code|
 
  ### **📆 2023**
  | Title | Authors | Conference | Ppaer | Code |
@@ -45,7 +46,8 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
 
  ### **📆 2022**
  | Title | Authors | Conference | Ppaer | Code |
- |-------|---------|------------|-------|------|
+ |:-------:|:---------:|:------------:|:-------:|:------:|
+|Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation|Phan, Minh Hieu and Ta, The-Anh and Phung, Son Lam and Tran-Thanh, Long and Bouzerdoum, Abdesselam|2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'22)|[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf)|[code](https://github.com/HieuPhan33/REMINDER)|
 
 
  ### **📆 2021**
