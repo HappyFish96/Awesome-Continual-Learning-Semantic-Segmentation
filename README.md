@@ -43,6 +43,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation|Zhang Anqi, and Gao Guangyu|Computer Vision -- ECCV 2024 (ECCV'24)|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06856.pdf)|[code](https://github.com/ANDYZAQ/BARM)|
  |Continual Segmentation with Disentangled Objectness Learning and Class Recognition|Gong, Yizheng and Yu, Siyue and Wang, Xiaoyang and Xiao, Jimin|2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24)|[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Continual_Segmentation_with_Disentangled_Objectness_Learning_and_Class_Recognition_CVPR_2024_paper.pdf)|No code|
  |Cs2K: Class-specific and Class-shared Knowledge Guidance for Incremental Semantic Segmentation|Gong Wei, Cong Yang, Liu Yuyang, Sun Gan|Computer Vision -- ECCV 2024 (ECCV'24)|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00780.pdf)|No code|
+ |Early Preparation Pays Off: New Classifier  Pre-tuning for Class Incremental Semantic  Segmentation|Xie Zhengyuan, Lu Haiquan, Xiao Jia-wen, Wang Enguang, Zhang Le, and Liu Xialei|Computer Vision -- ECCV 2024 (ECCV'24)|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03745.pdf)|[code](https://github.com/zhengyuan-xie/ECCV24_NeST)|
 
  ### **📆 2023**
  | Title | Authors | Journal/Conference | Ppaer | Code |
@@ -53,6 +54,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |:-------:|:---------:|:------------:|:-------:|:------:|
 |Class Similarity Weighted Knowledge Distillation for Continual Semantic Segmentation|Phan, Minh Hieu and Ta, The-Anh and Phung, Son Lam and Tran-Thanh, Long and Bouzerdoum, Abdesselam|2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'22)|[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Phan_Class_Similarity_Weighted_Knowledge_Distillation_for_Continual_Semantic_Segmentation_CVPR_2022_paper.pdf)|[code](https://github.com/HieuPhan33/REMINDER)|
 |Continual Semantic Segmentation via Structure Preserving and Projected Feature Alignment| Lin Zihan, Wang Zilei, and Zhang Yixin|Computer Vision -- ECCV 2022 (ECCV'22)|[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890341.pdf)|[code](https://github.com/AsteRiRi/SPPA)|Computer Vision -- ECCV 2024 (ECCV'24)|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00780.pdf)|[code](https://github.com/AsteRiRi/SPPA)|
+|Decomposed Knowledge Distillation for Class-Incremental Semantic Segmentation|Baek, Donghyeon and Oh, Youngmin and Lee, Sanghoon and Lee, Junghyup and Ham, Bumsub|Neural Information Processing Systems (NIPS'22)|[paper](https://papers.nips.cc/paper_files/paper/2022/file/439bf902de1807088d8b731ca20b0777-Paper-Conference.pdf)|[code](https://cvlab.yonsei.ac.kr/projects/DKD/)|
 
 
  ### **📆 2021**
