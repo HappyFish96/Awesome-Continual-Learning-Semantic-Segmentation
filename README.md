@@ -45,7 +45,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |Continual Segmentation with Disentangled Objectness Learning and Class Recognition|Gong, Yizheng and Yu, Siyue and Wang, Xiaoyang and Xiao, Jimin|2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'24)|[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_Continual_Segmentation_with_Disentangled_Objectness_Learning_and_Class_Recognition_CVPR_2024_paper.pdf)|No code|
  |Cs2K: Class-specific and Class-shared Knowledge Guidance for Incremental Semantic Segmentation|Gong Wei, Cong Yang, Liu Yuyang, Sun Gan|Computer Vision -- ECCV 2024 (ECCV'24)|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00780.pdf)|No code|
  |Early Preparation Pays Off: New Classifier  Pre-tuning for Class Incremental Semantic  Segmentation|Xie Zhengyuan, Lu Haiquan, Xiao Jia-wen, Wang Enguang, Zhang Le, and Liu Xialei|Computer Vision -- ECCV 2024 (ECCV'24)|[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03745.pdf)|[code](https://github.com/zhengyuan-xie/ECCV24_NeST)|
- |TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation| Yu Zhidong, Yang Wei, Xie Xike, Shi Zhenbo|TheThirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24)|[paper](file:///C:/Users/22434/Downloads/29598-Article%20Text-33652-1-2-20240324.pdf)|No code|
+ |TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation| Yu Zhidong, Yang Wei, Xie Xike, Shi Zhenbo|TheThirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24)|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29598)|No code|
 
  ### **📆 2023**
  | Title | Authors | Journal/Conference | Ppaer | Code |
