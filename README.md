@@ -50,7 +50,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  | Title | Authors | Journal/Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
  |Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class|Shang, Chao and Li, Hongliang and Meng, Fanman and Wu, Qingbo and Qiu, Heqian and Wang, Lanxiao|2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23)|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.pdf)|No code|
-
+ |Saving 100x storage: prototype replay for reconstructing training sample distribution in class-incremental semantic segmentation|Chen, Jinpeng and Cong, Runmin and Luo, Yuxuan and Ip, Horace Ho Shing and Kwong, Sam|Proceedings of the 37th International Conference on Neural Information Processing Systems (NIPS'23)|[paper](https://papers.nips.cc/paper_files/paper/2023/file/708e0d691a22212e1e373dc8779cbe53-Paper-Conference.pdf)|[code](https://github.com/jinpeng0528/STAR)|
  ### **📆 2022**
  | Title | Authors | Journal/Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
