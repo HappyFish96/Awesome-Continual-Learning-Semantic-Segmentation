@@ -65,12 +65,14 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  ### **📆 2021**
  | Title | Authors | Journal/Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
+ |PLOP: Learning without Forgetting for Continual Semantic Segmentation|Douillard, Arthur and Chen, Yifu and Dapogny, Arnaud and Cord, Matthieu|2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21)|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Douillard_PLOP_Learning_Without_Forgetting_for_Continual_Semantic_Segmentation_CVPR_2021_paper.pdf)|[code](https://github.com/arthurdouillard/CVPR2021_PLOP)|
 
 
 
  ### **📆 2020**
  | Title | Authors | Journal/Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
+ |Modeling the Background for Incremental Learning in Semantic Segmentation|Cermelli, Fabio and Mancini, Massimiliano and Rota Bulò, Samuel and Ricci, Elisa and Caputo, Barbara|2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'20)|[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cermelli_Modeling_the_Background_for_Incremental_Learning_in_Semantic_Segmentation_CVPR_2020_paper.pdf)|[code](https://github.com/fcdl94/MiB)
 
 
  ### **📆 2019**
