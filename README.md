@@ -14,7 +14,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
     - [📜 Research Ppaers](#-research-papers)
       - [Traditional Continual Learning on Semantic Segmentation](#traditional-continual-learning-on-semantic-segmentation)
       - [Continual Learning on Weakly-Supervised Semantic Segmentation](#continual-learning-on-weakly-supervised-semantic-segmentation)
-      - [Continual Learning on Few-Shot Semantic Segmentation](#continual-learning-on-few-shot-semantic-segmentation)
+      - [Continual Learning on Few-Shot Semantic/Instance Segmentation](#continual-learning-on-few-shot-semantic-/-instance-segmentation)
       - [Continual Learning on Multi-Domain Semantic Segmentation](#continual-learning-on-multi-domain-semantic-segmentation)
       - [Federated Learning](#federated-learning)
       - [3D Point Cloud](#3d-point-cloud)
@@ -95,16 +95,21 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |:-------:|:---------:|:------------:|:-------:|:------:|
  |Continual Semantic Segmentation Leveraging Image-level Labels and Rehearsal|Pagé Fortin, Mathieu and Chaib-draa, Brahim|Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI'22)|[paper](https://doi.org/10.24963/ijcai.2022/177)|No code|
  |Incremental Learning in Semantic Segmentation from Image Labels|Cermelli, Fabio and Fontanel, Dario and Tavera, Antonio and Ciccone, Marco and Caputo, Barbara|2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'22)|[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cermelli_Incremental_Learning_in_Semantic_Segmentation_From_Image_Labels_CVPR_2022_paper.pdf)|[code](https://github.com/fcdl94/WILSON)|
-### Continual Learning on Few-Shot Semantic Segmentation
+### Continual Learning on Few-Shot Semantic/Instance Segmentation
  ### **📆 2023**
  | Title | Authors | Journal/Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
  |Incremental Few Shot Semantic Segmentation via Class-agnostic Mask Proposal and Language-driven Classifier|Shan, Leo and Zhou, Wenzhang and Zhao, Grace|Proceedings of the 31st ACM International Conference on Multimedia (ACM MM'23)| [paper](https://dl.acm.org/doi/pdf/10.1145/3581783.3611783)|No code|
+ ### **📆 2021**
+ | Title | Authors | Journal/Conference | Ppaer | Code |
+ |:-------:|:---------:|:------------:|:-------:|:------:|
+ |Incremental Few-Shot Instance Segmentation|Ganea, Dan Andrei and Boom, Bas and Poppe, Ronald|2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21)|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ganea_Incremental_Few-Shot_Instance_Segmentation_CVPR_2021_paper.pdf)|[code](https://github.com/danganea/iMTFA)|
 ### Continual Learning on Multi-Domain Semantic Segmentation
  ### **📆 2024**
  | Title | Authors | Journal/Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
  |SimCS: Simulation for Domain Incremental Online Continual Segmentation|Alfarra, Motasem and Cai, Zhipeng and Bibi, Adel and Ghanem, Bernard and Müller, Matthias|Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI'24)|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/28952)|No code|
+ |Learning With Style: Continual Semantic  Segmentation Across Tasks and Domains|Toldo, Marco and Michieli, Umberto and Zanuttigh, Pietro|IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI'24)|[paper](https://ieeexplore.ieee.org/abstract/document/10521870)|No code|
  ### **📆 2023**
  | Title | Authors | Journal/Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
