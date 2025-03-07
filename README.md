@@ -14,7 +14,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
     - [📜 Research Ppaers](#-research-papers)
       - [Traditional Continual Learning on Semantic Segmentation](#traditional-continual-learning-on-semantic-segmentation)
       - [Continual Learning on Weakly-Supervised Semantic Segmentation](#continual-learning-on-weakly-supervised-semantic-segmentation)
-      - [Continual Learning on Few-Shot Semantic(Instance) Segmentation](#continual-learning-on-few-shot-semantic(instance)-segmentation)
+      - [Continual Learning on Few-Shot Semantic(Instance) Segmentation](#continual-learning-on-few-shot-semantic-(-instance-)-segmentation)
       - [Continual Learning on Multi-Domain Semantic Segmentation](#continual-learning-on-multi-domain-semantic-segmentation)
       - [Federated Learning](#federated-learning)
       - [3D Point Cloud](#3d-point-cloud)
