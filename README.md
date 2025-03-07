@@ -69,6 +69,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |-------|---------|------------|-------|------|
  |PLOP: Learning without Forgetting for Continual Semantic Segmentation|Douillard, Arthur and Chen, Yifu and Dapogny, Arnaud and Cord, Matthieu|2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21)|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Douillard_PLOP_Learning_Without_Forgetting_for_Continual_Semantic_Segmentation_CVPR_2021_paper.pdf)|[code](https://github.com/arthurdouillard/CVPR2021_PLOP)|
  |RECALL: Replay-based Continual Learning in Semantic Segmentation|Maracani, Andrea and Michieli, Umberto and Toldo, Marco and Zanuttigh, Pietro|2021 IEEE/CVF International Conference on Computer Vision (ICCV'21)|[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Maracani_RECALL_Replay-Based_Continual_Learning_in_Semantic_Segmentation_ICCV_2021_paper.pdf)|[code](https://github.com/LTTM/RECALL)|
+ |Continual Semantic Segmentation via Repulsion-Attraction of Sparse and  Disentangled Latent Representations|Michieli, Umberto and Zanuttigh, Pietro|2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21)|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Michieli_Continual_Semantic_Segmentation_via_Repulsion-Attraction_of_Sparse_and_Disentangled_Latent_CVPR_2021_paper.pdf)|[code](https://github.com/LTTM/SDR)|
 
 
 
