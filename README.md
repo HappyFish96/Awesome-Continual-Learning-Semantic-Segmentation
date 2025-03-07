@@ -52,6 +52,8 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  |-------|---------|------------|-------|------|
  |Incrementer: Transformer for Class-Incremental Semantic Segmentation with Knowledge Distillation Focusing on Old Class|Shang, Chao and Li, Hongliang and Meng, Fanman and Wu, Qingbo and Qiu, Heqian and Wang, Lanxiao|2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23)|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shang_Incrementer_Transformer_for_Class-Incremental_Semantic_Segmentation_With_Knowledge_Distillation_Focusing_CVPR_2023_paper.pdf)|No code|
  |Saving 100x storage: prototype replay for reconstructing training sample distribution in class-incremental semantic segmentation|Chen, Jinpeng and Cong, Runmin and Luo, Yuxuan and Ip, Horace Ho Shing and Kwong, Sam|Proceedings of the 37th International Conference on Neural Information Processing Systems (NIPS'23)|[paper](https://papers.nips.cc/paper_files/paper/2023/file/708e0d691a22212e1e373dc8779cbe53-Paper-Conference.pdf)|[code](https://github.com/jinpeng0528/STAR)|
+ |Continual Semantic Segmentation with Automatic Memory Sample Selection|Zhu, Lanyun and Chen, Tianrun and Yin, Jianxiong and See, Simon and Liu, Jun|2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'23)|[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Continual_Semantic_Segmentation_With_Automatic_Memory_Sample_Selection_CVPR_2023_paper.pdf)|No code|
+ 
  ### **📆 2022**
  | Title | Authors | Journal/Conference | Ppaer | Code |
  |:-------:|:---------:|:------------:|:-------:|:------:|
@@ -66,6 +68,7 @@ Welcome to follow and fork. If you find it useful, please ⭐️ star it!
  | Title | Authors | Journal/Conference | Ppaer | Code |
  |-------|---------|------------|-------|------|
  |PLOP: Learning without Forgetting for Continual Semantic Segmentation|Douillard, Arthur and Chen, Yifu and Dapogny, Arnaud and Cord, Matthieu|2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'21)|[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Douillard_PLOP_Learning_Without_Forgetting_for_Continual_Semantic_Segmentation_CVPR_2021_paper.pdf)|[code](https://github.com/arthurdouillard/CVPR2021_PLOP)|
+ |RECALL: Replay-based Continual Learning in Semantic Segmentation|Maracani, Andrea and Michieli, Umberto and Toldo, Marco and Zanuttigh, Pietro|2021 IEEE/CVF International Conference on Computer Vision (ICCV'21)|[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Maracani_RECALL_Replay-Based_Continual_Learning_in_Semantic_Segmentation_ICCV_2021_paper.pdf)|[code](https://github.com/LTTM/RECALL)|
 
 
 
